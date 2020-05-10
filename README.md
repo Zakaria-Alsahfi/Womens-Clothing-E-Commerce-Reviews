@@ -26,7 +26,7 @@ Data source:  [Kaggle](https://www.kaggle.com/nicapotato/womens-ecommerce-clothi
   
  
  
- ![](Image)
+ ![](Image/Picture1.png)                        ![](Image/Picture1.png)
 
 
 
