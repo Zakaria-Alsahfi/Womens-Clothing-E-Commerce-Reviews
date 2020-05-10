@@ -1,6 +1,7 @@
-# Womens-Clothing-E-Commerce-Reviews
+# Womens-Clothing-E-Commerce-Reviews      
 
-![](/Image/Picture3.png)
+
+<img src="/Image/Picture3.png" width="100">
 
 Data source:  [Kaggle](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews/)
 
@@ -26,9 +27,9 @@ Data source:  [Kaggle](https://www.kaggle.com/nicapotato/womens-ecommerce-clothi
   - BOW Models including binary, count, tfidf, freq
   - Word Embedding Model
   
+
  
- 
- ![](Image/Picture1.png)                        ![](Image/Picture2.png)
+ ![](Image/Picture1.png)![](Image/Picture2.png)
 
 
 
