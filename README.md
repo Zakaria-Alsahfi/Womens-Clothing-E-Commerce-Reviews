@@ -1,5 +1,7 @@
 # Womens-Clothing-E-Commerce-Reviews
 
+![](/Image/Picture3.png)
+
 Data source:  [Kaggle](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews/)
 
 **Data columns:**
@@ -26,7 +28,7 @@ Data source:  [Kaggle](https://www.kaggle.com/nicapotato/womens-ecommerce-clothi
   
  
  
- ![](Image/Picture1.png)                        ![](Image/Picture1.png)
+ ![](Image/Picture1.png)                        ![](Image/Picture2.png)
 
 
 
