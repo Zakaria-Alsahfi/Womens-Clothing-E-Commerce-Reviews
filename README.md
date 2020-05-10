@@ -23,3 +23,10 @@ Data source:  [Kaggle](https://www.kaggle.com/nicapotato/womens-ecommerce-clothi
 - Build several models to forecast  Ratingusing Review Text
   - BOW Models including binary, count, tfidf, freq
   - Word Embedding Model
+  
+ 
+ 
+ ![](Image)
+
+
+
